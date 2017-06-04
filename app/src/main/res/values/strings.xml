@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SPIDemo</string>
+    <string name="clicktip">click to add module interface</string>
+</resources>

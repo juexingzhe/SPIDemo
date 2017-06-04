@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SPIDemo.iml" filepath="$PROJECT_DIR$/SPIDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adisplay/adisplay.iml" filepath="$PROJECT_DIR$/adisplay/adisplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdisplay/bdisplay.iml" filepath="$PROJECT_DIR$/bdisplay/bdisplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+    </modules>
+  </component>
+</project>
